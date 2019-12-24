@@ -1,6 +1,6 @@
 # NewLiveVideoSDK
 ######
-****本篇主要说明 已有使用了cocoapods的项目集成LiveVideoCoreSDK,（感谢此大佬https://github.com/runner365/LiveVideoCoreSDK.git）
+****本篇主要说明 已有使用了cocoapods的项目集成LiveVideoCoreSDK,（感谢此大佬 https://github.com/runner365/LiveVideoCoreSDK.git ）
 
 ####
 1.使用pod命令创建工程，不做详解；
