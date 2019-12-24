@@ -9,12 +9,12 @@
 
 3.选中pod生成的.xcworkspace文件右击——显示包内容——打开contents.xcworkspacedata此文件（推荐使用vscode）；
 
-     #<FileRef#
-      #location = "group:LiveVideoCoreSDK/LiveVideoCoreSDK.xcodeproj">#
-     #</FileRef>#
-     #<FileRef#
-      #location = "group:RtmpLivePushSDK/RtmpLivePushSDK.xcodeproj">#
-     #</FileRef>#
+     <FileRef
+      location = "group:LiveVideoCoreSDK/LiveVideoCoreSDK.xcodeproj">
+     </FileRef>
+     <FileRef
+      location = "group:RtmpLivePushSDK/RtmpLivePushSDK.xcodeproj">
+     </FileRef>
    
    ————将此两条内容插入相应的位置（详细可自行看demo）；
    
