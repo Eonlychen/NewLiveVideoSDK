@@ -1,0 +1,6 @@
+framework module Pods_CClivedemo {
+  umbrella header "Pods-CClivedemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
